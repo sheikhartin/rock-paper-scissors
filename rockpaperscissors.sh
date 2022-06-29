@@ -7,10 +7,10 @@ if [[ "${rounds}" -le 0 ]]; then
 fi
 
 for (( i = 1; i <= rounds; i++ )); do
-  echo -e "\n============ ROUND ${i} ============"
+  echo -e "\n============== ROUND NO. ${i} =============="
   computer_move="$(echo "rock paper scissors" | cut -d' ' -f"$(shuf -i1-3 -n1)")"
 
-  # The game may not be fair, especially for who reads the code!
+  # Great help to code readers:
   if [[ "${1}" == "planetsheikh" ]]; then
     echo "Shush! The computer wants to play with ${computer_move}."
   fi

@@ -1,7 +1,9 @@
 ## Rock, Paper, Scissors
 
 ![GitHub repo status](https://img.shields.io/badge/status-archived-yellowgreen?style=flat)
+![GitHub license](https://img.shields.io/github/license/sheikhartin/rock-paper-scissors)
 ![GitHub contributors](https://img.shields.io/github/contributors/sheikhartin/rock-paper-scissors)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/sheikhartin/rock-paper-scissors)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sheikhartin/rock-paper-scissors)
 
 Just choose one of the three options and see who wins!
